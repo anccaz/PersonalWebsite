@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineering Intern",
+      "organisation": "TCW Group",
+      "startDate": "June 2024",
+      "endDate": "August 2024",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Coding Instructor",
+      "organisation": "Best Brains",
+      "startDate": "March 2024",
+      "endDate": "present",
+      "experiences": ["Teaching Python and Scratch to elementary and middle school students", "Leading engaging group sessions of 2-7 students and personalized one-on-one learning experiences"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Dallas Formula Racing",
+      "startDate": "October 2024",
+      "endDate": "present",
+      "experiences": [
+        "Generated Python tools to visualize critical data for suspension and steering DAQ system",
+        "Post-processed three-dimensional accelerometer data to create an acceleration vs. time graph "
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

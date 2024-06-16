@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Go",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Swift",
+        "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/figma.png"
+    }
+  ]
