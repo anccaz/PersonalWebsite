@@ -2,13 +2,13 @@
 
 Browse my projects and read about my background and experiences as a software engineer 
 
-## Link to the Local Hosting Website  🖥️
+## Link to the Local Hosting Website 🖥️
 
 **link
 
-## Tech Stack  🗃️
+## Tech Stack 🗃️
 
 **languages, libraries, frameworks, wire frame tools, etc. 
 
-## Last Updated  ⌚️
+## Last Updated ⌚️
 July 28, 2024 
