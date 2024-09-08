@@ -1,4 +1,4 @@
-# Annie Li's Personal Website & Project Portfolio 📇
+# Annie Li's Personal Website & Project Portfolio 
 
 Browse my projects and read about my background and experiences as a software engineer 
 
