@@ -6,9 +6,9 @@ Browse my projects and read about my background and experiences as a software en
 
 **link
 
-## Tech Stack 🗃️
+## Tech Stack 
 
 **languages, libraries, frameworks, wire frame tools, etc. 
 
-## Last Updated ⌚️
+## Last Updated 
 July 28, 2024 
