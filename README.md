@@ -1,6 +1,6 @@
 # Annie Li's Personal Website & Project Portfolio 
 
-Browse my projects and read about my background and experiences as a software engineer 
+Browse my projects and read about my background and experiences 
 
 ## Link to the Local Hosting Website 🖥️
 
@@ -11,4 +11,4 @@ Browse my projects and read about my background and experiences as a software en
 **languages, libraries, frameworks, wire frame tools, etc. 
 
 ## Last Updated 
-July 28, 2024 
+May 26th, 2025
